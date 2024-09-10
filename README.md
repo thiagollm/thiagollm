@@ -4,10 +4,10 @@
 Tenho 20 anos e estou cursando Engenharia de Software. Apaixonado por tecnologia e aprendizado constante, estou sempre em busca de novos desafios e formas de aprimorar minhas habilidades!
 
 <a href="https://github.com/thiagollm/github-readme-stats">
-  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=thiagollm&theme=tokyonight" />
+  <img height=145 align="center" src="https://github-readme-stats.vercel.app/api?username=thiagollm&theme=tokyonight" />
 </a>
 <a href="https://github.com/thiagollm/convoychat">
-  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagollm&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=145 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagollm&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
 <div style="display: inline_block"><br>
