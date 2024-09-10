@@ -4,12 +4,17 @@
 Tenho 20 anos e estou cursando Engenharia de Software. Apaixonado por tecnologia e aprendizado constante, estou sempre em busca de novos desafios e formas de aprimorar minhas habilidades!
 
 <a href="https://github.com/thiagollm/github-readme-stats">
-  <img height=143 align="center" src="https://github-readme-stats.vercel.app/api?username=thiagollm&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thiagollm&theme=tokyonight" />
 </a>
-<a href="https://github.com/thiagollm/convoychat">
+<!-- CASO EU TENHA MAIS LINGUAGENS SENDO USADAS, TIRAR DO MODO COMENTARIO E ARRUMAR O TAMANHO <a href="https://github.com/thiagollm/convoychat">
   <img height=143 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagollm&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-</a>
+</a>-->
 
+
+
+
+
+# **Tecnologias**
 <div style="display: inline_block"><br>
   <img align="center" alt="thiago-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="thiago-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -17,7 +22,7 @@ Tenho 20 anos e estou cursando Engenharia de Software. Apaixonado por tecnologia
   <img align="center" alt="thiago-Csharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg"
 </div>
   
-## 
+ ##
  
 <div> 
   
