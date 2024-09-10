@@ -14,9 +14,17 @@ Tenho 20 anos e estou cursando Engenharia de Software. Apaixonado por tecnologia
 
 ## 📫 Como me encontrar
 
-  <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> thiago.l.maes@gmail.com
-  <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> [@thiagomaes](https://www.instagram.com/thiagomaes)
-  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/4EUTH2ZPF3PIN1)
+  <div style="display: inline_block"><br/>
+  <a href="mailto:thiago.l.maes@gmail.com" target="_blank">
+    <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/thiagomaes" target="_blank">
+    <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://wa.me/qr/4EUTH2ZPF3PIN1" target="_blank">
+    <img align="center" alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+</div>
 
 ## Atualmente
 
