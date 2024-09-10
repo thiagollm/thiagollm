@@ -3,6 +3,8 @@
 🎓 **Estudante de Engenharia de Software**  
 Tenho 20 anos e estou cursando Engenharia de Software. Apaixonado por tecnologia e aprendizado constante, estou sempre em busca de novos desafios e formas de aprimorar minhas habilidades!
 
+![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagollm&show_icons=true&bg_color=00000000)
+
 ## Tecnologias
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
