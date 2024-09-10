@@ -10,22 +10,18 @@ Tenho 20 anos e estou cursando Engenharia de Software. Apaixonado por tecnologia
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 
 
-## 📫 Como me encontrar:
+## 📫 Como me encontrar
+
 - **Email**: thiago.l.maes@gmail.com
 - **Instagram**: [@thiagomaes](https://instagram.com/thiagomaes)
 
-## 🌱 Atualmente:
-- Estou aprendendo **C**, **HTML**, **CSS** e **Haskell**. 
+## Atualmente
+
 - Desenvolvendo projetos na minha faculdade de Engenharia de Software.
 
-## 🎯 Objetivo:
+## 🎯 Objetivo
+
 - Concluir meu curso e me tornar um desenvolvedor full-stack, focando no desenvolvimento de soluções inovadoras e eficientes.
 
-## 🔗 Badges:
-![Badge1](link-para-imagem)
-![Badge2](link-para-imagem)
-![Badge3](link-para-imagem)
 
----
 
-✨ _"A tecnologia move o mundo"_ ✨
