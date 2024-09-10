@@ -16,7 +16,7 @@ Tenho 20 anos e estou cursando Engenharia de Software. Apaixonado por tecnologia
 
   <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> thiago.l.maes@gmail.com
   <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> [@thiagomaes](https://www.instagram.com/thiagomaes)
-  <img align="center" alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> +55 (47) 99134-8857
+  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/4EUTH2ZPF3PIN1)
 
 ## Atualmente
 
