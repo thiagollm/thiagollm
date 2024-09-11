@@ -21,7 +21,7 @@
 
 <div align="center">
 
-### Main Skills
+### All Skills
 
 <div align="center" style="display: inline_block">
   <img align="center" alt="thiago-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -39,7 +39,7 @@
 
 <br>
   
- ### Contato
+ ### Contact
  
 <div> 
   
