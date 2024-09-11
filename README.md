@@ -3,10 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7aa2f7&size=35&center=true&vCenter=true&width=1000&lines=Hello+My+Name+is+Thiago+Luis+Lombardi+Maes;I'm+20+years+old;I+from+Brazil;I'm+Majoring+in+Software+Engineering;Be+Welcome!)](https://git.io/typing-svg)
 
 <p></p><p></p>
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thiagollm&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Thiago github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagollm&layout=compact&hide_border=true&theme=tokyonight" />
-</div><p></p><p></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thiagollm&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagollm&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a><p></p><p></p>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thiagollm&bg_color=1a1b26&color=7aa2f7&line=2ac3de&point=cfc9c2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
