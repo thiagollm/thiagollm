@@ -1,7 +1,8 @@
-# Olá, Eu sou o Thiago! 
+<img height=300 src="https://capsule-render.vercel.app/api?type=waving&color=grey&height=120&section=header"/>
 
-🎓 **Estudante de Engenharia de Software**  
-Tenho 20 anos e estou cursando Engenharia de Software. Apaixonado por tecnologia e aprendizado constante, estou sempre em busca de novos desafios e formas de aprimorar minhas habilidades!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&vCenter=true&width=1000&lines=Hello,+My+Name+is+Thiago+Luis+Lombardi+Maes;I'm+20+years+old;I+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg) <!--colocar cor em codigo-->
+
+
 
 <a href="https://github.com/thiagollm/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thiagollm&theme=tokyonight" />
@@ -11,18 +12,15 @@ Tenho 20 anos e estou cursando Engenharia de Software. Apaixonado por tecnologia
 </a>-->
 
 
-
-
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="thiago-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="thiago-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="thiago-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="thiago-Haskell" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg"
 </div>
+
   
- ##
+ ## Contato
  
 <div> 
   
