@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7aa2f7&size=35&center=true&vCenter=true&width=1000&lines=Hello+My+Name+is+Thiago;I'm+20+years+old;I+from+Brazil;I'm+Majoring+in+Software+Engineering;Be+Welcome!)](https://git.io/typing-svg)
 
-<p></p><p></p>
+<br>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thiagollm&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Thiago github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagollm&layout=compact&hide_border=true&theme=tokyonight" />
@@ -16,16 +17,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=thiagollm&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-
 <br> 
-
-
 
 <div align="center">
 
 ### Main Skills
 
- 
 <div align="center" style="display: inline_block">
   <img align="center" alt="thiago-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="thiago-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -38,12 +35,9 @@
   <img align="center" alt="thiago-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
 </div>
 
-
 <br>
 
-
 <br>
-
   
  ### Contato
  
