@@ -1,21 +1,25 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2e3440&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eceff4&size=35&center=true&vCenter=true&width=1000&lines=Hello+My+Name+is+Thiago;I'm+20+years+old;I+from+Brazil;I'm+Majoring+in+Software+Engineering;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B0000&size=35&center=true&vCenter=true&width=1000&lines=Hello+My+Name+is+Thiago;I'm+20+years+old;I+from+Brazil;I'm+Majoring+in+Software+Engineering;Be+Welcome!)](https://git.io/typing-svg)
 
 <br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thiagollm&show_icons=true&count_private=true&hide_border=true&theme=nord" alt="Thiago github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagollm&layout=compact&hide_border=true&theme=nord" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thiagollm&show_icons=true&count_private=true&hide_border=true&title_color=ECEFF4&icon_color=8B0000&text_color=ECEFF4&bg_color=0d1117" alt="Thiago github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagollm&layout=compact&hide_border=true&title_color=ECEFF4&text_color=ECEFF4&bg_color=0d1117" />
 </div>
-<p></p><p></p>
 
+<br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thiagollm&bg_color=2e3440&color=eceff4&line=eceff4&point=eceff4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thiagollm&bg_color=0d1117&color=eceff4&line=8b0000&point=eceff4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thiagollm&row=2&column=3&margin-w=15&margin-h=15&theme=nord" />
-</p>
+<br>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thiagollm&theme=shadow-red&card_width=750&card_height=200&sideLabels=ECEFF4&currStreakLabel=ECEFF4&sideNums=8B0000&ring=8B0000&currStreakNum=ECEFF4)](https://git.io/streak-stats)
+
+</div>
 
 <br> 
 
@@ -52,4 +56,4 @@
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=eceff4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
